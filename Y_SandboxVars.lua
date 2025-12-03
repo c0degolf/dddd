@@ -1003,7 +1003,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeBOW = 6,
+        EnumTypeBOW = 1,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1019,7 +1019,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeFLAME = 2,
+        EnumTypeFLAME = 1,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1035,7 +1035,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeGREN = 3,
+        EnumTypeGREN = 2,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1051,7 +1051,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeMINI = 2,
+        EnumTypeMINI = 1,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1083,7 +1083,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeSEMI = 6,
+        EnumTypeSEMI = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1099,7 +1099,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeAUTO = 6,
+        EnumTypeAUTO = 9,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1115,7 +1115,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeSMG = 6,
+        EnumTypeSMG = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1131,7 +1131,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeLEVER = 3,
+        EnumTypeLEVER = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1147,7 +1147,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeREV = 4,
+        EnumTypeREV = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1163,7 +1163,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypePUMP = 5,
+        EnumTypePUMP = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1179,7 +1179,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeBOLT = 4,
+        EnumTypeBOLT = 11,
         -- 생성률 설정
         --  - 총기의 분류 또는 작동식에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1195,7 +1195,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumTypeBREAK = 3,
+        EnumTypeBREAK = 11,
         -- 생성률 설정
         --  - 총기의 제조국에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1330,7 +1330,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber50BMG = 6,
+        EnumCaliber50BMG = 2,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1360,7 +1360,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber10gShot = 2,
+        EnumCaliber10gShot = 3,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1375,7 +1375,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber12gShot = 6,
+        EnumCaliber12gShot = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1405,7 +1405,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber3006SPG = 4,
+        EnumCaliber3006SPG = 5,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1420,7 +1420,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber308WIN = 5,
+        EnumCaliber308WIN = 8,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1435,7 +1435,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber762x54mmR = 4,
+        EnumCaliber762x54mmR = 8,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1450,7 +1450,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber545x39mm = 5,
+        EnumCaliber545x39mm = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1465,7 +1465,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber762x39mm = 6,
+        EnumCaliber762x39mm = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1480,7 +1480,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber556x45mm = 6,
+        EnumCaliber556x45mm = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1495,7 +1495,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber223REM = 4,
+        EnumCaliber223REM = 6,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1510,7 +1510,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber45LC410g = 3,
+        EnumCaliber45LC410g = 5,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1555,7 +1555,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber45ACP = 6,
+        EnumCaliber45ACP = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1585,7 +1585,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber9mm = 6,
+        EnumCaliber9mm = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1630,7 +1630,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber22LR = 6,
+        EnumCaliber22LR = 9,
         -- 생성률 설정
         --  - 총기의 구경에 따라 생성률을 감소 / 제거합니다.
         --  - 다른 범주에 포함되지 않는 경우에만
@@ -1646,7 +1646,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumCaliber177BB = 6,
+        EnumCaliber177BB = 9,
         -- 생성률 설정
         --  - 소음기 부착물의 생성률을 감소 / 제거합니다.
         --  - 보관함에서 생성되는 것에만 영향을 줍니다. (좀비에게서 발견할 수 있는 총기들은 포함 되지 않음)
@@ -1662,7 +1662,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumAttachementSuppressor = 2,
+        EnumAttachementSuppressor = 5,
         -- 생성률 설정
         --  - 광학 조준경의 생성률을 감소 / 제거합니다.
         --  - 보관함에서 생성되는 것에만 영향을 줍니다. (좀비에게서 발견할 수 있는 총기들은 포함 되지 않음) 기본값=10%
@@ -1676,7 +1676,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumAttachementOptics = 2,
+        EnumAttachementOptics = 4,
         -- 생성률 설정
         --  - 전술 조명 / 표적 지시기의 생성률을 감소 / 제거합니다.
         --  - 보관함에서 생성되는 것에만 영향을 줍니다. (좀비에게서 발견할 수 있는 총기들은 포함 되지 않음) 기본값=10%
@@ -1690,7 +1690,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumAttachementLightLaser = 2,
+        EnumAttachementLightLaser = 5,
         -- 생성률 설정
         --  - 다른 기타 부착물의 생성률을 감소 / 제거합니다.
         --  - 보관함에서 생성되는 것에만 영향을 줍니다. (좀비에게서 발견할 수 있는 총기들은 포함 되지 않음) 기본값=10%
@@ -1704,7 +1704,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumAttachementAllOther = 2,
+        EnumAttachementAllOther = 4,
         -- 생성률 설정
         --  - 탄통의 생성률을 감소 / 제거합니다.
         --  - 샌드박스 설정의 탄약 희귀도 설정은 탄통에 들어있는 탄약 상자의 수량에 영향을 줍니다. 기본값=10%
@@ -1718,7 +1718,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumAmmoCan = 2,
+        EnumAmmoCan = 6,
         -- 생성률 설정
         --  - 탄약 상자의 생성률을 감소 / 제거합니다.
         --  - 로켓 / 유탄 / 수류탄 / 지뢰에도 영향을 줍니다. 기본값=50%
@@ -1745,7 +1745,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumPolyCan = 2,
+        EnumPolyCan = 4,
         -- 생성률 설정
         --  - 표준 탄창의 생성률을 감소 / 제거합니다. 기본값=30%
         -- 1 = 제거
@@ -1758,7 +1758,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumStdMag = 4,
+        EnumStdMag = 6,
         -- 생성률 설정
         --  - 확장 탄창의 생성률을 감소 / 제거합니다. 기본값=20%
         -- 1 = 제거
@@ -1771,7 +1771,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumExtMag = 3,
+        EnumExtMag = 7,
         -- 생성률 설정
         --  - 드럼 / 박스 탄창의 생성률을 감소 / 제거합니다. 기본값=10%
         -- 1 = 제거
@@ -1784,7 +1784,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumDrumMag = 2,
+        EnumDrumMag = 3,
         -- 생성률 설정
         --  - 대형 단검의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1799,7 +1799,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeKnifeLarge = 3,
+        EnumMeleeKnifeLarge = 1,
         -- 생성률 설정
         --  - 소형 단검의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1814,7 +1814,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeKnifeSmall = 4,
+        EnumMeleeKnifeSmall = 1,
         -- 생성률 설정
         --  - 장검의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1829,7 +1829,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeSword = 2,
+        EnumMeleeSword = 1,
         -- 생성률 설정
         --  - 도끼의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1844,7 +1844,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeAxe = 3,
+        EnumMeleeAxe = 1,
         -- 생성률 설정
         --  - 둔기의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1859,7 +1859,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeBlunt = 4,
+        EnumMeleeBlunt = 1,
         -- 생성률 설정
         --  - 창의 생성률을 감소 / 제거합니다.
         --  - 모드에서 추가된 아이템만 적용됩니다.
@@ -1874,7 +1874,7 @@ SandboxVars = {
         -- 8 = 70%
         -- 9 = 80%
         -- 10 = 90%
-        EnumMeleeSpear = 2,
+        EnumMeleeSpear = 1,
         -- 생성률 설정
         --  - 연료가 필요한 도구의 생성률을 감소 / 제거합니다.
         --  - 전기톱 등 기본값=100%
@@ -1993,7 +1993,7 @@ SandboxVars = {
         -- 18 = 170%
         -- 19 = 180%
         -- 20 = 190%
-        EnumArmor = 6,
+        EnumArmor = 9,
         -- 생성률 설정
         --  - 1992년 이후 생산된 무기의 생성률을 감소 / 제거합니다.
         --  - 모든 곳에서 생성되도록 하려면 [허용]으로 설정하십시오.
@@ -2002,7 +2002,7 @@ SandboxVars = {
         -- 2 = 25%
         -- 3 = 50%
         -- 4 = 75%
-        EnumPost1992Production = 5,
+        EnumPost1992Production = 2,
         -- 생성률 설정
         --  - 군용 아이템 생성 지역(MIL)의 군용 아이템의 생성률을 감소 / 제한합니다.
         --  - 켄터키가 아닌 다른 국가의 지역이라는 가정을 하고 싶을 때 해당 국가에 맞게 설정할 수 있습니다.
@@ -2016,7 +2016,7 @@ SandboxVars = {
         -- 7 = 이스라엘 (추천 MIL Trim 170+)
         -- 8 = 없음 (추천 MIL Trim 50+)
         -- 9 = 없음 (추천 MIL Trim 50+)
-        EnumMILRegion = 8,
+        EnumMILRegion = 1,
         -- 제외 설정
         --  - 경찰용 아이템의 민수용 아이템 생성 지역(CIV) 생성률을 감소 / 제거합니다.
         --  - 일반적인 민수용이 아닌 경찰용 장비가 해당됩니다.
@@ -2144,7 +2144,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumLEORollAMMO = 2,
+        EnumLEORollAMMO = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2153,7 +2153,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumLEORollPART = 2,
+        EnumLEORollPART = 1,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2162,7 +2162,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumLEORollARMOR = 2,
+        EnumLEORollARMOR = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2180,7 +2180,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumMILRollAMMO = 2,
+        EnumMILRollAMMO = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2189,7 +2189,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumMILRollPART = 2,
+        EnumMILRollPART = 1,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2198,7 +2198,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumMILRollARMOR = 2,
+        EnumMILRollARMOR = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2225,7 +2225,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumSECRollPART = 2,
+        EnumSECRollPART = 1,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2234,7 +2234,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumSECRollARMOR = 2,
+        EnumSECRollARMOR = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2261,7 +2261,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumSURRollPART = 2,
+        EnumSURRollPART = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2270,7 +2270,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumSURRollARMOR = 2,
+        EnumSURRollARMOR = 3,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2279,7 +2279,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumHNTRollGUN = 2,
+        EnumHNTRollGUN = 4,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2288,7 +2288,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumHNTRollAMMO = 2,
+        EnumHNTRollAMMO = 4,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2297,7 +2297,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumHNTRollPART = 2,
+        EnumHNTRollPART = 4,
         -- 굴림(Roll) 설정
         --  - 굴림(Roll)은 목록에 있는 모든 아이템에 대해 생성될 기회를 제공합니다.
         --  - 굴림(Roll)의 횟수만큼 목록의 모든 아이템에 대해 생성될 기회를 추가로 제공합니다.
@@ -2306,7 +2306,7 @@ SandboxVars = {
         -- 2 = 2
         -- 3 = 3
         -- 4 = 4
-        EnumHNTRollARMOR = 2,
+        EnumHNTRollARMOR = 4,
         -- Trim(+) 설정
         --  - 민수용 아이템 생성 지역(CIV)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2331,7 +2331,7 @@ SandboxVars = {
         -- 18 = + 170%
         -- 19 = + 180%
         -- 20 = + 190%
-        EnumCIVx = 1,
+        EnumCIVx = 5,
         -- Trim(+) 설정
         --  - 경찰용 아이템 생성 지역(LEO)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2356,7 +2356,7 @@ SandboxVars = {
         -- 18 = + 170%
         -- 19 = + 180%
         -- 20 = + 190%
-        EnumLEOx = 5,
+        EnumLEOx = 11,
         -- Trim(+) 설정
         --  - 군용 아이템 생성 지역(MIL)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2391,7 +2391,7 @@ SandboxVars = {
         -- 28 = + 270%
         -- 29 = + 280%
         -- 30 = + 290%
-        EnumMILx = 1,
+        EnumMILx = 16,
         -- Trim(+) 설정
         --  - 보안용 아이템 생성 지역(SEC)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2416,7 +2416,7 @@ SandboxVars = {
         -- 18 = + 170%
         -- 19 = + 180%
         -- 20 = + 190%
-        EnumSECx = 1,
+        EnumSECx = 5,
         -- Trim(+) 설정
         --  - 사냥용 아이템 생성 지역(HNT)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2441,7 +2441,7 @@ SandboxVars = {
         -- 18 = + 170%
         -- 19 = + 180%
         -- 20 = + 190%
-        EnumHNTx = 7,
+        EnumHNTx = 11,
         -- Trim(+) 설정
         --  - 군수품 아이템 생성 지역(SUR)에 남아 있는 모든 아이템에 대해 생성률을 높입니다.
         --  - 제외 / 제거 / 감소 설정이 적용되었을 때
@@ -2466,7 +2466,7 @@ SandboxVars = {
         -- 18 = + 170%
         -- 19 = + 180%
         -- 20 = + 190%
-        EnumSURx = 3,
+        EnumSURx = 5,
         -- 바닐라 설정에 민수용 아이템 생성 지역(CIV)에 연관된 탄창과 탄약 상자를 추가하도록 합니다.
         BoolCIVammo = true,
         -- 바닐라 설정에 경찰용 아이템 생성 지역(LEO)에 연관된 탄창과 탄약 상자를 추가하도록 합니다.
@@ -2479,209 +2479,6 @@ SandboxVars = {
         BoolHNTammo = true,
         -- 바닐라 설정에 군수품 아이템 생성 지역(SUR)에 연관된 탄창과 탄약 상자를 추가하도록 합니다.
         BoolSURammo = true,
-    },
-    Firearms = {
-        -- Whether or not a screwdriver is required to put attachments on firearms.
-        ScrewdriverReq = false,
-        -- Whether improvised suppressors are craftable, even if this option is not checked the recipe will show up in-game they just won't be craftable.
-        ImprovisedSuppressors = true,
-        -- With this activated improvised will not break no matter what the break chance is.
-        SuppressorBreak = true,
-        -- Overall chance of an improvised suppressor breaking, even on low there is still a chance that it breaks on the first use. 기본값=One Use
-        -- 1 = One Use
-        -- 2 = High
-        -- 3 = Medium
-        BottleSuppressorBreakChance = 1,
-        -- Overall chance of an improvised suppressor breaking, even on low there is still a chance that it breaks on the first use. 기본값=High
-        -- 1 = One Use
-        -- 2 = High
-        -- 3 = Medium
-        FlashlightSuppressorBreakChance = 2,
-        -- How effective a suppressor is on a firearm that uses .22 LR rounds. 기본값=80%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness22 = 3,
-        -- How effective a suppressor is on a firearm that uses 9mm rounds. 기본값=70%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness9mm = 4,
-        -- How effective a suppressor is on a firearm that uses .45 ACP rounds. 기본값=70%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness45 = 4,
-        -- How effective a suppressor is on a firearm that uses .44 Magnum rounds. 기본값=70%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness44 = 4,
-        -- How effective a suppressor is on a firearm that uses .38 Special rounds. 기본값=80%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness38 = 3,
-        -- How effective a suppressor is on a firearm that uses .223 and 5.56x45mm rounds. 기본값=60%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness223 = 5,
-        -- How effective a suppressor is on a firearm that uses .308 and 7.62x51mm rounds. 기본값=50%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectiveness308 = 6,
-        -- How effective a suppressor is on shotgun. 기본값=30%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectivenessShotgunShells = 8,
-        -- How effective suppressors are on revolvers are, on top of the effectiveness based on caliber. 기본값=60%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectivenessRevolver = 5,
-        -- How effective improvised suppressors are, on top of the effectiveness based on caliber. 기본값=20%
-        -- 1 = 100%
-        -- 2 = 90%
-        -- 3 = 80%
-        -- 4 = 70%
-        -- 5 = 60%
-        -- 6 = 50%
-        -- 7 = 40%
-        -- 8 = 30%
-        -- 9 = 20%
-        SuppressorEffectivenessImprovised = 9,
-        -- 기본값=미친듯이 적음
-        -- 1 = 없음
-        -- 2 = 미친듯이 적음
-        -- 3 = 매우 적음
-        -- 4 = 적음
-        LootSuppressor = 2,
-        -- 기본값=미친듯이 적음
-        -- 1 = 없음
-        -- 2 = 미친듯이 적음
-        -- 3 = 매우 적음
-        -- 4 = 적음
-        LootAmmoCans = 2,
-        -- Whether or not AK47 rifles spawn.
-        SpawnAK47 = true,
-        -- Whether AR-15 Rifles spawns.
-        SpawnAR15 = true,
-        -- Whether Colt Single Action Army Revolvers and the associated .44-40 WCF ammo are spawned.
-        SpawnColtPeacemaker = true,
-        -- Whether Colt Ace pistols and the associated .22 LR ammo spawn.
-        SpawnColtAce = true,
-        -- Whether Colt Anaconda Revolvers spawn.
-        SpawnAnaconda = true,
-        -- Whether Colt Commando Assault Rifles spawn.
-        SpawnM733 = true,
-        -- Whether Colt Python Revolvers spawn.
-        SpawnPython = true,
-        -- Whether the Colt Single Action Frontier Scout and the associated .22 LR ammo spawns.
-        ColtScout = true,
-        -- Whether the FN Fal spawns.
-        SpawnFNFal = true,
-        -- Whether Glock 17 Pistols and their magazines spawn.
-        SpawnGlock17 = true,
-        -- Whether the Ithaca 37 spawns.
-        SpawnM37 = true,
-        SpawnM16A2 = true,
-        -- Whether M24 Rifles spawns.
-        SpawnM24 = true,
-        -- Whether the M60 spawns.
-        SpawnM60 = true,
-        -- Whether or not MAC-10 SMGs spawn.
-        SpawnMAC10 = true,
-        -- Whether the Mossberg 590 Shotgun spawns.
-        SpawnMossberg500 = true,
-        -- Whether the Mossberg 590A1 Tactical Shotgun spawns.
-        SpawnMossberg500Tactical = true,
-        -- Whether or not MP5 SMGs spawn.
-        SpawnMP5 = true,
-        -- Whether the Remington 870 Shotgun spawns.
-        SpawnRemington870 = true,
-        -- Whether Rossi Model 92 lever action rifles and the associated .357 ammo are spawned.
-        SpawnRossi92 = true,
-        -- Whether Ruger Model 77 Rifles using the caliber .22 LR spawn.
-        SpawnRuger22 = true,
-        -- Whether or not SKS rifles spawn.
-        SpawnSKS = true,
-        -- Whether or not SPAS12 and LAW12 spawn.
-        SpawnSPAS12 = true,
-        -- Whether or not UZI SMGs spawn.
-        SpawnUZI = true,
-        -- Whether Winchester '73 lever action rifles and the associated .44-40 WCF ammo are spawned.
-        SpawnWinchester73 = true,
-        -- Whether Winchester '94 lever action rifles are spawned.
-        SpawnWinchester94 = true,
-        -- Whether or not any suppressors can be found in the world.
-        SpawnSuppressors = true,
-        -- Whether or not handgun suppressors(9mm, .45 ACP) can be found in the world.
-        SpawnHandgunSuppressors = true,
-        -- Whether or not rifle suppressors(.22 LR, .223/5.56x45mm, and .308/7.62x51mm) can be found in the world.
-        SpawnRifleSuppressors = true,
-        -- Whether or not shotgun suppressors can be found in the world.
-        SpawnShotgunSuppressors = false,
-        -- Whether or not .38 Special & .357 caliber suppressors can be found in the world.
-        SpawnRevolverSuppressors = false,
-        -- Whether or not Ammo Cases can be found in containers.
-        SpawnAmmoCans = true,
     },
     KillCount = {
         -- May provoke stutters.
