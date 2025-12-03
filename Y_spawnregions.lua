@@ -9,10 +9,5 @@ function SpawnRegions()
 		{ name = "Trelai_spawns", file = "media/maps/Trelai_spawns/spawnpoints.lua" },
 		{ name = "Trelai_storyspawn", file = "media/maps/Trelai_storyspawn/spawnpoints.lua" },
 		{ name = "RavenCreek", file = "media/maps/RavenCreek/spawnpoints.lua" },
-		{ name = "Petroville", file = "media/maps/Petroville/spawnpoints.lua" },
-		{ name = "Ashenwood", file = "media/maps/Ashenwood/spawnpoints.lua" },
-		{ name = "Pitstop", file = "media/maps/Pitstop/spawnpoints.lua" },
-		{ name = "Springwood", file = "media/maps/Springwood/spawnpoints.lua" },
-		{ name = "Chinatown", file = "media/maps/Chinatown/spawnpoints.lua" },
 	}
 end
