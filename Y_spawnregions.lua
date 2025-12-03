@@ -9,5 +9,18 @@ function SpawnRegions()
 		{ name = "Trelai_spawns", file = "media/maps/Trelai_spawns/spawnpoints.lua" },
 		{ name = "Trelai_storyspawn", file = "media/maps/Trelai_storyspawn/spawnpoints.lua" },
 		{ name = "RavenCreek", file = "media/maps/RavenCreek/spawnpoints.lua" },
+		{ name = "MuldraughCheckpoint", file = "media/maps/MuldraughCheckpoint/spawnpoints.lua" },
+		{ name = "Tugaland", file = "media/maps/Tugaland/spawnpoints.lua" },
+		{ name = "BillionaireSafehouse", file = "media/maps/BillionaireSafehouse/spawnpoints.lua" },
+		{ name = "The Museum", file = "media/maps/The Museum/spawnpoints.lua" },
+		{ name = "Springwood", file = "media/maps/Springwood/spawnpoints.lua" },
+		{ name = "Pitstop", file = "media/maps/Pitstop/spawnpoints.lua" },
+		{ name = "Petroville", file = "media/maps/Petroville/spawnpoints.lua" },
+		{ name = "Chinatown", file = "media/maps/Chinatown/spawnpoints.lua" },
+		{ name = "Ashenwood", file = "media/maps/Ashenwood/spawnpoints.lua" },
+		{ name = "li_township", file = "media/maps/li_township/spawnpoints.lua" },
+		{ name = "Muldraugh Military Base", file = "media/maps/Muldraugh Military Base/spawnpoints.lua" },
+		{ name = "EVAC_Muldraugh", file = "media/maps/EVAC_Muldraugh/spawnpoints.lua" },
+		{ name = "Westoutskirts-shippingCo", file = "media/maps/Westoutskirts-shippingCo/spawnpoints.lua" },
 	}
 end
