@@ -187,7 +187,7 @@ SandboxVars = {
     -- 정해진 숫자만큼 경험치 배율을 정합니다. 최소 =0.00 최대 =1000.00 기본 =1.00
     XpMultiplier = 1.5,
     -- XP 배율이 패시브 스킬에도 영향을 미칩니다. 예시=근력 체력.
-    XpMultiplierAffectsPassive = false,
+    XpMultiplierAffectsPassive = true,
     -- 자동차 엔진의 일반적인 소음 크기를 설정합니다. 최소 =0.00 최대 =100.00 기본 =1.00
     ZombieAttractionMultiplier = 1.0,
     -- 활성화하면 모든 차량의 문이 열려있고, 운전이 가능하고, 연료는 가득 차있고, 엔진 소리가 낮아집니다.
@@ -313,7 +313,7 @@ SandboxVars = {
     -- 2 = 적음
     -- 3 = 보통
     -- 4 = 많음
-    GeneratorSpawning = 5,
+    GeneratorSpawning = 3,
     -- 발전기 연료 소비량을 설정 합니다. 0.0에서는 연료를 소비 하지 않습니다. 최소 =0.00 최대 =100.00 기본 =1.00
     GeneratorFuelConsumption = 0.5,
     -- 게임 상에 무작위로 출현하는 특별한 집(전소된 집,세이프하우스,시체가 있는 집) 생성 비율을 설정합니다. 기본값=적음
@@ -448,7 +448,7 @@ SandboxVars = {
     -- 3 = 적음
     -- 4 = 보통
     -- 5 = 조금 많음
-    LockedCar = 3,
+    LockedCar = 2,
     -- 새 차가 나타날 확률 기본값=나쁨
     -- 1 = 매우 나쁨
     -- 2 = 나쁨
@@ -621,7 +621,7 @@ SandboxVars = {
     },
     ZombieConfig = {
         -- 4.0 = 미친듯이 많음, 3.0 = 매우 많음, 2.0 = 많음, 1.0 = 보통, 0.35 = 적음, 0.0 = 없음. 최소 =0.00 최대 =4.00 기본 =1.00
-        PopulationMultiplier = 1.0,
+        PopulationMultiplier = 0.8,
         -- 게임 시작시 좀비 수량 배율을 조정합니다. 최소 =0.00 최대 =4.00 기본 =1.00
         PopulationStartMultiplier = 1.0,
         -- 최대 좀비 수량 배율을 조정합니다. 최소 =0.00 최대 =4.00 기본 =1.50
@@ -2917,5 +2917,45 @@ SandboxVars = {
         LootChance = 100,
         -- 최소 =0 최대 =100 기본 =0
         LootChanceZomboxycycline = 0,
+    },
+    ChangeBag = {
+        Application = true,
+        -- 기존 가방 용량에 샌드박스 수치만큼 곱해집니다. 최소 =1 최대 =1000 기본 =2
+        Capacity = 5,
+        -- 모든 가방이 전부 이 수치로 적용됩니다. 최소 =1 최대 =100 기본 =100
+        WeightReduction = 95,
+        -- 기존 가방 무게에 샌드박스 수치만큼 곱해집니다. 최소 =0 최대 =100 기본 =0
+        Weight = 1,
+        -- 샌드박스 온/오프 설정을 키지 않으면 랜덤도 적용되지 않습니다.(이것을 키면 위의 샌드박스들은 전부 적용되지 않습니다.)
+        RandomBag = false,
+        -- 최댓값보다 크면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =1000 기본 =1
+        RandomMinCapacity = 1,
+        -- 최솟값보다 작으면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =1000 기본 =100
+        RandomMaxCapacity = 100,
+        -- 최댓값보다 크면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =100 기본 =1
+        RandomMinWeightReduction = 1,
+        -- 최솟값보다 작으면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =100 기본 =100
+        RandomMaxWeightReduction = 100,
+        -- 랜덤에서 제외할 아이템을 입력해주세요. 예) 학교 가방과 책가방을 제외하고 싶다면 Base.Bag_Schoolbag/Base.Bag_Satchel 이렇게 입력하세요.
+        ExcludedItems = "",
+        Application = true,
+        -- 기존 가방 용량에 샌드박스 수치만큼 곱해집니다. 최소 =1 최대 =1000 기본 =2
+        Capacity = 5,
+        -- 모든 가방이 전부 이 수치로 적용됩니다. 최소 =1 최대 =100 기본 =100
+        WeightReduction = 95,
+        -- 기존 가방 무게에 샌드박스 수치만큼 곱해집니다. 최소 =0 최대 =100 기본 =0
+        Weight = 1,
+        -- 샌드박스 온/오프 설정을 키지 않으면 랜덤도 적용되지 않습니다.(이것을 키면 위의 샌드박스들은 전부 적용되지 않습니다.)
+        RandomBag = false,
+        -- 최댓값보다 크면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =1000 기본 =1
+        RandomMinCapacity = 1,
+        -- 최솟값보다 작으면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =1000 기본 =100
+        RandomMaxCapacity = 100,
+        -- 최댓값보다 크면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =100 기본 =1
+        RandomMinWeightReduction = 1,
+        -- 최솟값보다 작으면 용량이 기본값에서 변하지 않습니다. 최소 =1 최대 =100 기본 =100
+        RandomMaxWeightReduction = 100,
+        -- 랜덤에서 제외할 아이템을 입력해주세요. 예) 학교 가방과 책가방을 제외하고 싶다면 Base.Bag_Schoolbag/Base.Bag_Satchel 이렇게 입력하세요.
+        ExcludedItems = "",
     },
 }
